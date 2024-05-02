@@ -1,8 +1,5 @@
 In this project, I developed software that converts image files into ASCII art.
-The program takes three inputs: the path to an image file, a set of ASCII characters to use for the conversion, and the desired resolution for the ASCII art.
-It then converts the image into ASCII art and displays the output either as an image on the console or saves it as an HTML file.
-I implemented a user interface to make the conversion process user-friendly.
-For example, I demonstrated the conversion of an image in two scenarios:
-Using the digits 0-9 in ASCII with a resolution of 128 characters per line.
-Using all ASCII characters with a resolution of 256 characters per line.
-Overall, this project was a great opportunity to work with image processing and ASCII art generation, enhancing my programming skills in Java.
+The program takes three inputs: the path to an image file, a set of ASCII characters to use 
+for the conversion, and the desired resolution for the ASCII art.
+It then converts the image into ASCII art and displays the output either as an image on the
+console or saves it as an HTML file.
