@@ -1,1 +1,7 @@
-
+I implemented a game called "Bricker," which is similar to the classic game "Arkanoid".
+The project involved using the DanoGameLab library as the game engine. 
+With this library, I created game objects managed by the engine using the game manager.
+The project was divided into two parts: in the first part, I built the basic game, and in the second part, 
+I added special effects to enhance the gameplay.
+Throughout the project, I had to think about the design and decide which classes to create and which design patterns to use based on the principles we learned.
+Overall, the project was a great learning experience that helped me improve my programming skills, especially in game development using Java.
