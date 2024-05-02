@@ -1,12 +1,7 @@
 
 In this exercise, I implemented a tournament of Tic-Tac-Toe games.
-
 In our version, the board size is n x n, and a single game round ends when a player wins or when there are no empty squares left on the board.
-
 A player is defined as a winner if they achieve a sequence of k marked squares in a row, column, or diagonal.
-
 The marks can be either 'X' or 'O'. The values of 'X' and 'O' are chosen by the user, with default values of 4 and 3, respectively.
-
 It should be noted that for the game to be meaningful, we require that n ≥ k ≥ 2.
-
 There will be two types of players in the exercise: a human player who plays their turn through the System.in, and an automatic player who operates automatically according to a defined strategy.
