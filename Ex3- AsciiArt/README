@@ -1,5 +1,0 @@
-In this project, I developed software that converts image files into ASCII art.
-The program takes three inputs: the path to an image file, a set of ASCII characters to use 
-for the conversion, and the desired resolution for the ASCII art.
-It then converts the image into ASCII art and displays the output either as an image on the
-console or saves it as an HTML file.
