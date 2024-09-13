@@ -1,8 +1,0 @@
-In this project, I developed a simulation that is played without a win or lose condition at this stage. 
-The simulator is a procedural simulation that faithfully replicates reality.
-The simulation features a day-night cycle, including screen darkness, an avatar character capable of running and jumping,
-trees with swaying leaves, and fruits that provide energy to the character. 
-This simulation could be further developed in the future to incorporate elements such as water
-and rain, potentially evolving into a platformer game, a building game, or a survival game.
-This project was a great opportunity to explore procedural simulation and game development concepts,
-enhancing my skills in Java programming.
