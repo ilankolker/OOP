@@ -1,6 +1,6 @@
 # OOP Projects Repository
 
-This repo contains four fun projects Of OOP course of the Hebrew University of Jerusalem demonstrating OOP principles.
+This repo contains four fun projects of OOP course of the Hebrew University of Jerusalem demonstrating OOP principles.
 
 ## 🏆 Projects
 
